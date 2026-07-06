@@ -1,56 +1,68 @@
 # 🐍 CodSoft Python Internship Projects
 
-Welcome to my **CodSoft Python Internship** repository!
+<div align="center">
 
-This repository contains the Python projects I successfully completed as part of my internship at **CodSoft**. These projects helped me strengthen my understanding of Python programming, problem-solving, and application development by implementing real-world programming concepts.
+## Python Programming Internship
 
----
+A collection of Python projects completed during my internship at **CodSoft**.
 
-## 📌 About the Internship
+Focused on strengthening programming fundamentals, logical thinking, problem-solving, and developing real-world Python applications.
 
-- **Organization:** CodSoft
-- **Role:** Python Programming Intern
-- **Duration:** 10/06/26 - 10/07/26
-- **Domain:** Python Programming
-
-During this internship, I developed five Python-based applications that enhanced my knowledge of programming fundamentals, logical thinking, and software development.
+</div>
 
 ---
 
-# 🚀 Projects
+# 📌 Internship Details
 
-## 1️⃣ Simple Calculator
-**Description**
-A command-line calculator that performs basic arithmetic operations.
+| Detail | Information |
+|---------|-------------|
+| Organization | CodSoft |
+| Role | Python Programming Intern |
+| Domain | Python Programming |
+| Status | Successfully Completed |
 
-**Features**
+---
+
+# 🚀 Projects Completed
+
+| Task | Project | Description | Status |
+|------|----------|-------------|--------|
+| Task 1 | Simple Calculator | Performs basic arithmetic operations | ✅ |
+| Task 2 | To-Do List | Manage daily tasks efficiently | ✅ |
+| Task 3 | Password Generator | Generates secure random passwords | ✅ |
+| Task 4 | Rock Paper Scissors | Interactive game against the computer | ✅ |
+| Task 5 | Contact Book | Store and manage contact information | ✅ |
+
+---
+
+# 📂 Project Details
+
+## 🔹 Task 1 – Simple Calculator
+
+### Features
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - User-friendly interface
 
-**Skills Used**
+### Concepts Used
 - Variables
-- Conditional Statements
 - Functions
-- User Input Handling
+- Conditional Statements
+- User Input
 
 ---
 
-## 2️⃣ To-Do List
+## 🔹 Task 2 – To-Do List
 
-**Description**
-A task management application that helps users organize their daily tasks.
-
-**Features**
+### Features
 - Add Tasks
 - View Tasks
 - Update Tasks
 - Delete Tasks
-- Easy-to-use menu interface
 
-**Skills Used**
+### Concepts Used
 - Lists
 - Functions
 - Loops
@@ -58,58 +70,48 @@ A task management application that helps users organize their daily tasks.
 
 ---
 
-## 3️⃣ Password Generator
+## 🔹 Task 3 – Password Generator
 
-**Description**
-A Python application that generates strong and random passwords.
-
-**Features**
+### Features
+- Generates strong passwords
 - User-defined password length
-- Random password generation
-- Secure character combinations
+- Random character generation
 
-**Skills Used**
+### Concepts Used
 - Random Module
-- String Manipulation
+- Strings
 - Loops
-- User Input
 
 ---
 
-## 4️⃣ Rock Paper Scissors Game
+## 🔹 Task 4 – Rock Paper Scissors Game
 
-**Description**
-A classic Rock-Paper-Scissors game where the user competes against the computer.
-
-**Features**
-- Computer-generated random choices
+### Features
+- User vs Computer
+- Random computer choice
 - Winner determination
 - Interactive gameplay
 
-**Skills Used**
+### Concepts Used
 - Random Module
 - Conditional Statements
 - Loops
-- Game Logic
 
 ---
 
-## 5️⃣ Contact Book
+## 🔹 Task 5 – Contact Book
 
-**Description**
-A contact management system for storing and managing contact information.
-
-**Features**
+### Features
 - Add Contact
 - View Contacts
 - Search Contact
 - Update Contact
 - Delete Contact
 
-**Skills Used**
+### Concepts Used
 - Functions
-- Dictionaries
 - Lists
+- Dictionaries
 - CRUD Operations
 
 ---
@@ -122,28 +124,48 @@ A contact management system for storing and managing contact information.
 
 ---
 
-# 📚 Skills Gained
+# 🎯 Skills Gained
 
 - Python Programming
 - Problem Solving
 - Logical Thinking
-- Object-Oriented Programming Concepts
-- Data Handling
+- Data Structures
+- Functions
+- File Handling
 - Debugging
-- Version Control with Git & GitHub
+- Version Control using GitHub
 
 ---
 
-# 📬 Connect With Me
+# 📈 Learning Outcome
 
-**LinkedIn**
-- https://www.linkedin.com/in/thrisha-p-92155b373
-
-**GitHub**
-- https://github.com/pthrisha06
+Through this internship, I strengthened my understanding of Python programming by developing multiple console-based applications. Each project helped me improve my coding practices, logical reasoning, debugging skills, and confidence in building real-world applications.
 
 ---
 
-⭐ Thank you for visiting my repository!
+# 👩‍💻 About Me
 
-If you found these projects useful or interesting, feel free to explore the code and share your feedback.
+**P. Thrisha**
+
+B.E. Computer Science and Engineering  
+Specialization in Artificial Intelligence & Data Science
+
+CGPA: **8.41**
+
+---
+
+# 🔗 Connect With Me
+
+### LinkedIn
+https://www.linkedin.com/in/thrisha-p-92155b373
+
+### GitHub
+https://github.com/pthrisha06
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting this repository!
+
+I am continuously learning, building new projects, and improving my programming skills. Feedback and suggestions are always welcome.
